@@ -1,14 +1,14 @@
 # Could AI be Medical Surrogates?
 ## Presentation at SEAC 2023 Conference
 
-Alexander Zhang
-Department of Philosophy and Albert Gnaegi Center for Healthcare Ethics
-Saint Louis University
+Alexander Zhang  
+Department of Philosophy and Albert Gnaegi Center for Healthcare Ethics  
+Saint Louis University  
 Email: <alexander.h.zhang@slu.edu>
 
 ### Outline
 
-1. The standard case of medical surrogacy
+1. A standard case of medical surrogacy
 2. The received view of surrogate decision making
 3. The hypothetical case of AI surrogate decision making
 4. The problem for the received view
@@ -16,9 +16,17 @@ Email: <alexander.h.zhang@slu.edu>
 6. An example model based on the right to be loved
 7. AI medical surrogates in the rights-based approach
 
-### 1. The standard case of medical surrogacy
+### 1. A standard case of medical surrogacy
 
+Jane is a 21 year old woman at university.
+She goes to a party one night where she drinks and takes tranquilizers.
+Jane drives home but gets in a car accident.
+When paramrdics arrive, she is not breathing but they resuscitate her.
+However, after three weeks in a coma, the medical team determine that Jane is in a persistent vegetative state.
 
+The medical team wants to put Jane on artificial hydration and nutrition.
+However, because Jane is incapacitated, she cannot express informed consent.
+How should the medical team proceed while balancing principles of respect for autonomy and beneficience?
 
 ### 2. The received view of surrogate decision making
 
@@ -56,11 +64,30 @@ they perceive to be the in the best interest of the patient.
 
 ### 3. The hypothetical case of AI surrogate decision making
 
+Only a minority of patients have advanced directives.
+
+Appropriate surrogates cannot always be found for all patients.
+
+Resort to best interest standard in ignorance of the patient's preferences and, therefore, without respect to their autonomous will.
+
+Suppose instead the medical team obtaine Jane's digital footprint---all of her metadata, social media, phone records, etc. 
+Whatever digital information evidences her beliefs, preferences, and decision making.
+This information is fed into an AI which creates a model of the patient's medical decision making.
+
+Suppose that this AI digital twin of the patient's decision making can reliably simulate what the patient would have chosen had they been aware of both the options and the facts.
+Instead of resorting to the best interest standard for Jane, should the medical team turn to this AI digital twin to act as Jane's surrogate?
+
 ### 4. The problem for the received view
+
+
 
 ### 5. The alternative rights-based approach
 
+
+
 ### 6. An example model based on the right to be loved
+
+
 
 ### 7. AI medical surrogates in the rights-based approach
 
