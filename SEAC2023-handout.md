@@ -29,12 +29,12 @@ However, after three weeks in a coma, the medical team determine that Jane is in
 
 The medical team wants to put Jane on artificial hydration and nutrition.
 However, because Jane is incapacitated, she cannot express informed consent.
-How should the medical team proceed while balancing principles of respect for autonomy and beneficience?
+How should the medical team proceed while balancing principles of respect for autonomy and beneficence?
 
 ### 2. The received view of surrogate decision making
 
 The received view in bioethics suggests that there are three guidance principles to
-follow in making medical decisions for an incapacitated patient.
+follow in making medical decisions for a decisionally incapacitated patient.
 
 2.1 Advanced directives
 
@@ -73,7 +73,7 @@ Appropriate surrogates cannot always be found for all patients.
 
 Resort to best interest standard in ignorance of the patient's preferences and, therefore, without respect to their autonomous will.
 
-Suppose instead the medical team obtaine Jane's digital footprint---all of her metadata, social media, phone records, etc. 
+Suppose instead the medical team obtained Jane's digital footprint---all of her metadata, social media, phone records, etc. 
 Whatever digital information evidences her beliefs, preferences, and decision making.
 This information is fed into an AI which creates a model of the patient's medical decision making.
 
@@ -82,15 +82,127 @@ Instead of resorting to the best interest standard for Jane, should the medical 
 
 ### 4. The problem for the received view
 
+On the received view, family are preferred over non-family to act as principal
+surrogate decision maker.
 
+“The family is generally both most knowledgeable about the incompetent
+individual’s good and his or her previous values and preferences, and most
+concerned about the patient’s good.” (Buchanan and Brock 1989, 136) 
+
+Preference based on epistemic criteria of reliability to reconstruct what the
+patient would have consented or refused to. Thus, presumption that knowing the
+patient, because it improves the chances at reconstructing the counterfactual
+patient, advantages some surrogates over others.
+
+Humans, even family, tend to not reliably perform substituted judgement.
+
+"a right to refuse all forms of medical treatment and care, including
+nutritional support by ordinary or artificial means, except when refusal imposes
+significant health risks on others.” (Buchanan and Brock 1989, 93)
+
+“I also write separately to emphasize that the Court does not today decide the
+issue whether a State must also give effect to the decisions of a surrogate
+decisionmaker. In my view, such a duty may well be constitutionally required to
+protect the patient’s liberty interest in refusing medical treatment.” --
+Justice O'Connor, *In re Cruzan*
+
+The surrogate, ostensibly, has to get it right in order to exercise patient's
+right to refuse.
+
+In which case, we best uphold the principles of respect for patient autonomy and
+beneficence by turning to the surrogate with the best epistemic reliability.
+
+If that is the case, then it appears that we ought to prefer the AI surrogate
+over family if the AI is more epistemically reliable!
 
 ### 5. The alternative rights-based approach
 
+The received view holds that the right to refuse is both a negative right and
+characterized by a performative act.
 
+the right to refuse “is a negative right, a right not to have medical treatment
+or care provided to a patient without his or her consent.” (Buchanan and Brock
+1989, 92) 
+
+> There is another way in which substituted judgement, or more precisely, its
+> relationship to advanced directions, has been misunderstood. Sometimes advanced
+> directives are mistakenly viewed as one especially important kind of evidence
+> concerning what the individual would choose. The error here is that of failing
+> to see that advanced directives are performative, not merely evidentiary. (1989,
+> 116)
+
+But, a negative right gives its holder an entitlement to noninterference
+regarding the object of the right. For example, if under the law I have a right
+to not be interfered in some regard like speech, then I have a negative right to
+the freedom of speech. This right entails a negative obligation on the part of
+others to refrain from interfering with the rights holder in the regard in
+question.
+
+As a negative right of noninterference, refusal is presumed---consent is the
+performative act with special normative power.
+
+"All rights reserved".
+
+Any account of surrogacy has to explain how it is not a prima facie violation of
+the patient's negative rights. Either:
+- The patient's negative rights are waived.
+- The patient's negative rights are defeased by some countervailing consideration.
+
+It's not obvious how knowledge about the counterfactual patient either waives or
+defeases the actual patient's negative rights.
+
+One alternative account on the latter is to appeal to the patient's positive rights.
+
+A positive right gives its holder an entitlement
+to the provision of the object of the right. For example, if under the law I
+have some entitlement to some good or service like education, then I have a
+positive right to education. This right entails a positive obligation on the
+part of others ot the rights holder to provide the good or service in question.
+
+Abstractly, a surrogate may permissibly decide for the incapacitated patient
+if they act as dutybearer to the patient's positive rights when the balance of
+patient's positive and negative rights are such that the positive rights
+defeases the negative rights.
 
 ### 6. An example model based on the right to be loved
 
+The following sketches out a possible rights-based theory of medical surrogacy
+based on social rights like the right to be loved.
 
+Social rights are human rights to the relational goods necessary to a minimally
+decent human life.
+
+Matthew Liao argues that children have a right to be loved because it is a
+relational good necessary to a minimally decent human life.
+
+Liao has also argued that the elderly have a right to be loved.
+
+Moreover, Liao argues that shared obligations to a positive right does not
+entail that those who share those obligations have the same responsibilities.
+There are primary dutybearers and associate dutybearers who have different
+responsibilities to the rightsholder even though they are obligated by the same
+right.
+
+For example, family are the primary dutybearers to the child's right to be loved
+because they are the best placed to fullfill the obligations of the child
+while nonfamily are associate dutybearers.
+
+If that is the case, then we can understand the right to be loved as persisting
+over a person's life with responsibilities that wax and wane according to the
+person's needs and vulnerabilities. Capacitated adults do not generate much
+responsibility on the part of others in virtue of the right to be loved because
+they are capable of securing those goods for themselves.
+
+But, the decisionally incapacitated cannot fulfill their own needs because of
+their vulnerability. Thus, we may have strong obligations and responsibilities
+to the incapacitated patient's right to be loved.
+
+The strength of the positive right to be loved for the incapacitated patient
+defeases their negative right of noninterference.
+
+Thus, if the surrogate acts as a dutybearer to the incapacitated patient's right
+to be loved, they permissibly decide on behalf of the patient because they
+defease the patient's right to noninterference.
 
 ### 7. AI medical surrogates in the rights-based approach
 
