@@ -2,8 +2,11 @@
 ## Presentation at SEAC 2023 Conference
 
 Alexander Zhang  
+
 Department of Philosophy and Albert Gnaegi Center for Healthcare Ethics  
+
 Saint Louis University  
+
 Email: <alexander.h.zhang@slu.edu>
 
 ### Outline
