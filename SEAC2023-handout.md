@@ -141,7 +141,7 @@ question.
 As a negative right of noninterference, refusal is presumed---consent is the
 performative act with special normative power.
 
-"All rights reserved".
+"All rights reserved."
 
 Any account of surrogacy has to explain how it is not a prima facie violation of
 the patient's negative rights. Either:
@@ -150,6 +150,8 @@ the patient's negative rights. Either:
 
 It's not obvious how knowledge about the counterfactual patient either waives or
 defeases the actual patient's negative rights.
+
+"Ask for forgiveness, not permission."
 
 One alternative account on the latter is to appeal to the patient's positive rights.
 
